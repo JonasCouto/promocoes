@@ -8,10 +8,7 @@ const PagesPromotionForm = () => {
     return( 
 
         <div>
-                     
-             FORM 
-             {id && <div>id: {id} </div>}
-
+            <h1> Hello World! </h1>
         </div>
 
         )
